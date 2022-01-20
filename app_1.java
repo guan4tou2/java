@@ -1,8 +1,4 @@
-/*
-name:app_1
-author:wu guan ting 40843120
-date:2021/05/18
-*/
+
 import java.awt.*;
 import java.awt.event.*;
 
