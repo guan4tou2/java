@@ -1,6 +1,5 @@
 /*
 filename:app7_2
-author:40843120 wu,guan-ting
 feature:tic-tac-toc
 date:2020/10/28
 version:1.0
