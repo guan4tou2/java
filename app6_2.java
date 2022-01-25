@@ -1,6 +1,5 @@
 /*
 filename:app6_2
-author:40843120 wu,guan-ting
 feature:
 data2020/10/19
 */ 
