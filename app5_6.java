@@ -1,7 +1,6 @@
 import java.util.Scanner;
 /*
 filename:app5_6
-author:40843120 wu,guan-ting
 feature:以 * 印出一個高度為n+1的菱形，其中 n 由使用者輸入
 data2020/10/12
 */ 
