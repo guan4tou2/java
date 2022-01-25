@@ -1,6 +1,5 @@
 /*
 filename:app5_7
-author:40843120 wu,guan-ting
 feature:99乘法表
 data2020/10/12
 */ 
