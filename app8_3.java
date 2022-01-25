@@ -1,6 +1,5 @@
 /*
 filename:app8_3
-author:40843120 wu,guan-ting
 feature: MyStack
 date:2020/11/
 version:1.0
