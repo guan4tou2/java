@@ -1,11 +1,3 @@
-
-/*
-name:hw
-author:wu,guan-ting 40843120
-data:2020/11/23
-feature:Rectangle
-version:1.0
-*/ 
 class Rectangle{
     private int height;
     private int width;
