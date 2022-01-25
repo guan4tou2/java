@@ -1,6 +1,5 @@
 /*
 filename:app8_4
-author:40843120 wu,guan-ting
 feature:MyVector
 date:2020/11/
 version:1.0
