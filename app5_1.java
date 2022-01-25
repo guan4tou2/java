@@ -1,6 +1,5 @@
 /*
 filename:app5_1
-author:40843120 wu,guan-ting
 feature:calculate the value of pi from the infinite series pi 
 data2020/10/12
 */ 
