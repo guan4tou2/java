@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 /*
 filename:app4_1
-author:40843120 wu,guan-ting
 feature:寫一程式可以讓使用者輸入三個數字，利用二元運算子、三元運算子 ?: ，將最大值、最小值、中間值找出印在螢幕。注意：不可使用 if 命令。 
 data2020/10/12
 */ 
