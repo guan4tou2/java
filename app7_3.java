@@ -1,6 +1,5 @@
 /*
 filename:app7_3
-author:40843120 wu,guan-ting
 feature:Continuously input a series of integers (maximum 10000), each input of a number, the output so far median
 date:2020/10/28
 version:1.0
