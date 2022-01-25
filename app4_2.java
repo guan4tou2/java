@@ -1,6 +1,5 @@
 /*
 filename:app4_2
-author:40843120 wu,guan-ting
 feature:在螢幕繪出一個旋轉的棒子
 data2020/10/12
 */ 
