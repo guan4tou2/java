@@ -60,7 +60,7 @@ class ChessBoard extends Board implements Serializable{
     }
 }
 
-public class app3 {
+public class Game_ObjectStream {
     public static void main(String args[])throws IOException,ClassNotFoundException{
         /*ObjectInputStream ois=new ObjectInputStream(new FileInputStream("file"));
         ChessBoard chessboard=(ChessBoard) ois.readObject();
