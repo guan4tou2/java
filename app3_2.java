@@ -1,6 +1,5 @@
 /*
 filename:app3_2
-author:40843120 wu,guan-ting
 feature:input all type and output they
 data2020/10/05
 */ 
