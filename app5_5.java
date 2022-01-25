@@ -1,7 +1,6 @@
 import java.util.Scanner;
 /*
 filename:app5_5
-author:40843120 wu,guan-ting
 feature:寫一程式可以讓使用者輸入 n, rate, years, (其中 n 代表每年存入之金額，rate代表利率， years 代表儲蓄的年數) 並且計算到期後存款金額為多少？
 data2020/10/12
 */ 
