@@ -31,7 +31,7 @@ class CBox{
         cr.show_color();
     }
 }
-public class app9_19{
+public class app9_1{
     public static void main(String args[]) {
         CBox box=new CBox(2,3,4,"Blue");
         box.show();
