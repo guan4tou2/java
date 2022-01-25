@@ -1,6 +1,5 @@
 /*
 filename:app7_1
-author:40843120 wu,guan-ting
 feature:印出 1-10000 之間有幾個迴文數字，並將它們每 10 個數字印在一列，輸出到螢幕
 date:2020/10/26
 version:1.0
