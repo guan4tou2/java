@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 /*
 filename:app3_3
-author:40843120 wu,guan-ting
 feature:
 data2020/10/05
 */ 
