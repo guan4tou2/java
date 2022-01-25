@@ -11,14 +11,7 @@
     public static StaticBlockSingleton getInstance() {
         return instance;
     }
-}*/
-/*
-name:StaticBlockSingleton
-author:wu,guan-ting 40843120
-data:2020/11/30
-feature:Rectangle
-version:1.0
-*/ 
+}*/ 
 class Rectangle2{
     private static int height,width;
 
