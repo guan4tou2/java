@@ -1,6 +1,5 @@
 /*
 filename:hw1214_2
-author:40843120,wu guan-ting
 date:2020/12/14
 feature:turn br1 to true
 */
