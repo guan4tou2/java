@@ -1,6 +1,5 @@
 /*
 filename:app6_4
-author:40843120 wu,guan-ting
 feature:Given a string path, where path[i]='N', 'S', 'E', 'W', each representing moving one unit north, south, east, or west, respectively. You start at the origin (0, 0) on a 2D plane and walk on the path specified by path. return True if the path crosses itself at any point, that is, if at any time you are on a location you've previousely visited. Return False otherwise.
 data2020/10/19
 */ 
