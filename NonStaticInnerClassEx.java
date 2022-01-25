@@ -1,10 +1,3 @@
-/*
-name:NonStaticInnerClassEx
-author:wu,guan-ting 40843120
-data:2020/11/23
-feature:NonStaticInnerClassEx
-version:1.0
-*/ 
 class TopLevelClassTwo {
     private static String msg="shine the inner light";
     public NonStaticInnerClass makeInStance(){
