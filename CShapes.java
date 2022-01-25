@@ -1,9 +1,3 @@
-/*
-filename:hw1214
-author:40843120,wu guan-ting
-date:2020/12/14
-feature:CShape
-*/
 class CShape {
     protected static double area;
 
@@ -99,7 +93,7 @@ class CTriangle extends CShape {
     }
 }
 
-public class hw1214 {
+public class CShapes {
     public static void main(String[] args) {
         CShape shp[] = new CShape[5];
         shp[0] = new CCircle(12);
