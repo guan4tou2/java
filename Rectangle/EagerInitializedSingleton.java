@@ -6,14 +6,6 @@
     }
 }
 */
-
-/*
-name:EagerInitializedSingleton
-author:wu,guan-ting 40843120
-data:2020/11/30
-feature:Rectangle
-version:1.0
-*/ 
 class Rectangle1{
     private static int height,width;
     private static final Rectangle1 instance=new Rectangle1();
