@@ -1,6 +1,5 @@
 /*
 filename:app6_1
-author:40843120 wu,guan-ting
 feature:Given an array arr, replace every element in that array with the greatest element among the elements to its right, and replace the last element with -1.
 data2020/10/19
 */ 
