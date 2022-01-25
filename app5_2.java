@@ -1,6 +1,5 @@
 /*
 filename:app5_2
-author:40843120 wu,guan-ting
 feature:A number is called a well-ordered number if all of its digits are strictly increasing from left to right.
 data2020/10/12
 */ 
