@@ -8,13 +8,7 @@
         return instance;
     }
 }*/
-/*
-name:LazyInitialedSingleton
-author:wu,guan-ting 40843120
-data:2020/11/30
-feature:Rectangle
-version:1.0
-*/ 
+
 class Rectangle3{
     private static int height,width;
 
