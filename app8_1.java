@@ -1,6 +1,5 @@
 /*
 filename:app8_1
-author:40843120 wu,guan-ting
 feature:OrderedList 
 date:2020/11/03
 version:1.0
