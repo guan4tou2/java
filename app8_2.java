@@ -1,6 +1,5 @@
 /*
 filename:app8_2
-author:40843120 wu,guan-ting
 feature:Rectangle
 date:2020/11/
 version:1.0
