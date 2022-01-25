@@ -1,10 +1,3 @@
-/*
-name:SpecialFormInnerClassEx
-author:wu,guan-ting 40843120
-data:2020/11/23
-feature:SpecialFormInnerClassEx
-version:1.0
-*/ 
 class TLClassA{
     private String msg="TLClassA object ";
     public TLClassA(String objNo){msg=msg+objNo;}
