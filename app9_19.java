@@ -1,6 +1,5 @@
 /*
 name:app9_19
-author:wu,guan-ting 40843120
 data:2020/11/23
 feature:box
 */ 
