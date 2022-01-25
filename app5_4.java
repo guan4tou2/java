@@ -1,7 +1,6 @@
 import java.util.Scanner;
 /*
 filename:app5_4
-author:40843120 wu,guan-ting
 feature:reverse digit order of an integer given by the user. 
 data2020/10/12
 */ 
